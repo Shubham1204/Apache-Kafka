@@ -9,7 +9,7 @@ Go to the downloaded folder of kakfa and open server.properties.
 "D:\Softwares\kafka\kafka_2.13-2.8.0\config\server.properties"
 
 
-Search for following key to change the logs directory
+Search for following key to change the logs directory.
 log.dirs=D:/Softwares/kafka/kafka-logs
 
 
