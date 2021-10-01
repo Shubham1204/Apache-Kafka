@@ -5,7 +5,7 @@ https://www.apache.org/dyn/closer.cgi?path=/kafka/2.8.0/kafka_2.13-2.8.0.tgz
 
 
 2. Log directory for kafka
-Go to the downloaded folder of kakfa and open server.properties
+Go to the downloaded folder of kakfa and open server.properties.
 "D:\Softwares\kafka\kafka_2.13-2.8.0\config\server.properties"
 
 
